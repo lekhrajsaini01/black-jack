@@ -1,0 +1,12 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.app {
+  padding: 30px;
+  background: url('../../images/bj_table.png') no-repeat;
+  background-size: cover;
+  height: 100%;
+}
