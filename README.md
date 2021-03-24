@@ -28,5 +28,8 @@ The aim of this exercise is to create a simple React-powered game of [Blackjack]
   - [lodash](https://lodash.com/)
   - [recompose](https://github.com/acdlite/recompose/)
   - [classnames](https://www.npmjs.com/package/classnames)
+  - [deck of cards](https://github.com/notpeter/Vector-Playing-Cards)
+
+
 
   :: Find thie hosted project on this link:: https://youthful-elion-2b145e.netlify.app/
