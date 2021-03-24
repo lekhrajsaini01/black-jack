@@ -18,5 +18,15 @@ The aim of this exercise is to create a simple React-powered game of [Blackjack]
 
 ## Get going
 
-1. Install with `npm install` :coffee:
+1. Install with `npm install` 
 2. Start the dev server with `npm start`
+- I've provided a few [atom components](./src/components) for you to get going quickly with.
+- I am not expecting an overly-polished UI. The purpose of this exercise is to see how you model the various concepts of the game inside the application and how you design your code.
+- I've installed the following packages for your convenience (feel free to use at will or install more)
+  - [enzyme](http://airbnb.io/enzyme/)
+  - [immutable](http://facebook.github.io/immutable-js/)
+  - [lodash](https://lodash.com/)
+  - [recompose](https://github.com/acdlite/recompose/)
+  - [classnames](https://www.npmjs.com/package/classnames)
+
+  :: Find thie hosted project on this link:: https://youthful-elion-2b145e.netlify.app/
