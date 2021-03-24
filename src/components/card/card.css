@@ -1,0 +1,220 @@
+.card {
+  width: 103px;
+  height: 149px;
+  background-position: center;
+  background-size: cover;
+  transition: transform linear 0.05s;
+}
+
+.card:hover {
+  transform: rotate(5deg);
+  transition: transform ease-in 0.1s;
+}
+
+.card-suit-diamond.card-value-ace {
+  background-image: url(./assets/AD.svg);
+}
+
+.card-suit-diamond.card-value-2 {
+  background-image: url(./assets/2D.svg);
+}
+
+.card-suit-diamond.card-value-3 {
+  background-image: url(./assets/3D.svg);
+}
+
+.card-suit-diamond.card-value-4 {
+  background-image: url(./assets/4D.svg);
+}
+
+.card-suit-diamond.card-value-5 {
+  background-image: url(./assets/5D.svg);
+}
+
+.card-suit-diamond.card-value-6 {
+  background-image: url(./assets/6D.svg);
+}
+
+.card-suit-diamond.card-value-7 {
+  background-image: url(./assets/7D.svg);
+}
+
+.card-suit-diamond.card-value-8 {
+  background-image: url(./assets/8D.svg);
+}
+
+.card-suit-diamond.card-value-9 {
+  background-image: url(./assets/9D.svg);
+}
+
+.card-suit-diamond.card-value-10 {
+  background-image: url(./assets/10D.svg);
+}
+
+.card-suit-diamond.card-value-jack {
+  background-image: url(./assets/JD.svg);
+}
+
+.card-suit-diamond.card-value-queen {
+  background-image: url(./assets/QD.svg);
+}
+
+.card-suit-diamond.card-value-king {
+  background-image: url(./assets/KD.svg);
+}
+
+.card-suit-spade.card-value-ace {
+  background-image: url(./assets/AS.svg);
+}
+
+.card-suit-spade.card-value-2 {
+  background-image: url(./assets/2S.svg);
+}
+
+.card-suit-spade.card-value-3 {
+  background-image: url(./assets/3S.svg);
+}
+
+.card-suit-spade.card-value-4 {
+  background-image: url(./assets/4S.svg);
+}
+
+.card-suit-spade.card-value-5 {
+  background-image: url(./assets/5S.svg);
+}
+
+.card-suit-spade.card-value-6 {
+  background-image: url(./assets/6S.svg);
+}
+
+.card-suit-spade.card-value-7 {
+  background-image: url(./assets/7S.svg);
+}
+
+.card-suit-spade.card-value-8 {
+  background-image: url(./assets/8S.svg);
+}
+
+.card-suit-spade.card-value-9 {
+  background-image: url(./assets/9S.svg);
+}
+
+.card-suit-spade.card-value-10 {
+  background-image: url(./assets/10S.svg);
+}
+
+.card-suit-spade.card-value-jack {
+  background-image: url(./assets/JS.svg);
+}
+
+.card-suit-spade.card-value-queen {
+  background-image: url(./assets/QS.svg);
+}
+
+.card-suit-spade.card-value-king {
+  background-image: url(./assets/KS.svg);
+}
+
+.card-suit-club.card-value-ace {
+  background-image: url(./assets/AC.svg);
+}
+
+.card-suit-club.card-value-2 {
+  background-image: url(./assets/2C.svg);
+}
+
+.card-suit-club.card-value-3 {
+  background-image: url(./assets/3C.svg);
+}
+
+.card-suit-club.card-value-4 {
+  background-image: url(./assets/4C.svg);
+}
+
+.card-suit-club.card-value-5 {
+  background-image: url(./assets/5C.svg);
+}
+
+.card-suit-club.card-value-6 {
+  background-image: url(./assets/6C.svg);
+}
+
+.card-suit-club.card-value-7 {
+  background-image: url(./assets/7C.svg);
+}
+
+.card-suit-club.card-value-8 {
+  background-image: url(./assets/8C.svg);
+}
+
+.card-suit-club.card-value-9 {
+  background-image: url(./assets/9C.svg);
+}
+
+.card-suit-club.card-value-10 {
+  background-image: url(./assets/10C.svg);
+}
+
+.card-suit-club.card-value-jack {
+  background-image: url(./assets/JC.svg);
+}
+
+.card-suit-club.card-value-queen {
+  background-image: url(./assets/QC.svg);
+}
+
+.card-suit-club.card-value-king {
+  background-image: url(./assets/KC.svg);
+}
+
+.card-suit-heart.card-value-ace {
+  background-image: url(./assets/AH.svg);
+}
+
+.card-suit-heart.card-value-2 {
+  background-image: url(./assets/2H.svg);
+}
+
+.card-suit-heart.card-value-3 {
+  background-image: url(./assets/3H.svg);
+}
+
+.card-suit-heart.card-value-4 {
+  background-image: url(./assets/4H.svg);
+}
+
+.card-suit-heart.card-value-5 {
+  background-image: url(./assets/5H.svg);
+}
+
+.card-suit-heart.card-value-6 {
+  background-image: url(./assets/6H.svg);
+}
+
+.card-suit-heart.card-value-7 {
+  background-image: url(./assets/7H.svg);
+}
+
+.card-suit-heart.card-value-8 {
+  background-image: url(./assets/8H.svg);
+}
+
+.card-suit-heart.card-value-9 {
+  background-image: url(./assets/9H.svg);
+}
+
+.card-suit-heart.card-value-10 {
+  background-image: url(./assets/10H.svg);
+}
+
+.card-suit-heart.card-value-jack {
+  background-image: url(./assets/JH.svg);
+}
+
+.card-suit-heart.card-value-queen {
+  background-image: url(./assets/QH.svg);
+}
+
+.card-suit-heart.card-value-king {
+  background-image: url(./assets/KH.svg);
+}
